@@ -21,3 +21,8 @@ Installation
 2. Navigate to the project directory
 3. Install dependencies: `npm install` or `yarn install`
 4. Start the development server: `npm start` or `yarn start`
+
+Demo
+
+Check out the live demo of the project:
+https://drive.google.com/file/d/1HrM8-CNexnq1iRjfg-mSCpZTUPiuwvsq/view?usp=drivesdk
