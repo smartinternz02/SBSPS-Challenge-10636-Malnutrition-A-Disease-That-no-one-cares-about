@@ -1,7 +1,7 @@
 # SBSPS-Challenge-10636-Malnutrition-A-Disease-That-no-one-cares-about
 
 IBM Hack Challenge - 2023
-Team Name : Techies
+Team Name : Techies[Selected as one among the top 40 project in IBM Hack Challenge 2023]
 
 Malnutrition: A Disease That no one cares about
 
